@@ -10,5 +10,5 @@ EasyAI strives to streamline prominent AI model repositories on GitHub by elimin
 
 
 ## References
-[Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
+[Swin-Transformer](https://github.com/microsoft/Swin-Transformer)  
 [stable-diffusion](https://github.com/CompVis/stable-diffusion)
