@@ -1,6 +1,10 @@
 # stable-diffusion
 
-<img src="sample_imgs/concat.jpg" width = "600" height = "200" div align=center />
+<div align="center">
+    <!-- <img src="sample_imgs/concat.jpg" width = "750" height = "250" /> -->
+    <img src="sample_imgs/concat.jpg" style="max-width: 90%; height: auto;"><br>
+    <strong>a photograph of an astronaut riding a horse</strong>
+</div>
 
 ## pre-trained models
 [stable-diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4)  
