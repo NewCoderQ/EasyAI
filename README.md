@@ -9,9 +9,9 @@ EasyAI strives to streamline prominent AI model repositories on GitHub by elimin
 - [x] [Swin-Transformer](Swin-Transformer)
 
 ### Image Generation
-- [ ][denoising-diffusion-pytorch]
-- [x][stable-diffusion](stable-diffusion)
-- [ ][imagen-pytorch]
+- [ ] [denoising-diffusion-pytorch]
+- [x] [stable-diffusion](stable-diffusion)
+- [ ] [imagen-pytorch]
 
 
 ## References
