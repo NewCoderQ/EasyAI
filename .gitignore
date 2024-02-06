@@ -1,4 +1,5 @@
 Swin-Transformer/ckpts
 stable-diffusion/run.sh
+tmp_scripts/
 
 __pycache__

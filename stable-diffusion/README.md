@@ -1,5 +1,6 @@
 # stable-diffusion
 
+<img src="sample_imgs/concat.jpg" width = "600" height = "200" div align=center />
 
 ## pre-trained models
 [stable-diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4)  
