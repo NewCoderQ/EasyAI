@@ -6,13 +6,16 @@ EasyAI strives to streamline prominent AI model repositories on GitHub by elimin
 
 ## Repositories
 ### Network Backbone
-- [Swin-Transformer](Swin-Transformer)
+- [x] [Swin-Transformer](Swin-Transformer)
 
 ### Image Generation
-- [diffusion model]
-- [stable-diffusion](stable-diffusion)
+- [ ][denoising-diffusion-pytorch]
+- [x][stable-diffusion](stable-diffusion)
+- [ ][imagen-pytorch]
 
 
 ## References
 [Swin-Transformer](https://github.com/microsoft/Swin-Transformer)  
-[stable-diffusion](https://github.com/CompVis/stable-diffusion)
+[stable-diffusion](https://github.com/CompVis/stable-diffusion)  
+[imagen-pytorch](https://github.com/lucidrains/imagen-pytorch)  
+[denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)  
